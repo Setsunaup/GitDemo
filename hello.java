@@ -2,6 +2,7 @@ public class hello{
 	public static void main(String[] args){
 		System.out.println("Hello456");
 		System.out.println("hello123");
-		System.out.println("hello hot-fix!")
+		System.out.println("hello hot-fix!");
+		System.out.println("我是小B!")
 	}
 }
